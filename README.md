@@ -87,7 +87,7 @@ Tableau didn’t automatically recognize state abbreviations during map visualiz
 
 ## 🎥 Dashboard Demo (GIF Preview)
 
-![Dashboard Demo](demo/dashboard_demo.gif)
+![Dashboard Demo](https://github.com/rongxian14/BikeStore-Sales-DA/blob/main/BikeStore%20Dashboard%20Demo.mov)
 
 > 📌 A quick animated walkthrough of the Tableau dashboard. Demonstrates slicers, charts, and interactivity in action.
 
